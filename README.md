@@ -14,6 +14,9 @@ The workflow is orchestrated as follows:
 6. The generated response and the exact source references are returned to the user.
 7. The conversation is stored in PostgreSQL for persistent chat history.
 
+## Application Demo
+![LifeInsure AI Chatbot Demo](https://github.com/bdstar/AI-Agent-Chatbot-Support-Assistant/raw/main/LifeInsure%20AI%20Chatbot.gif)
+
 ## Components and their Functionality
 
 - **Frontend (HTML/CSS/JS via FastAPI Templates):**
