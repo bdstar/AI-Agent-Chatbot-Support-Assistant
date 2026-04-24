@@ -1,0 +1,27 @@
+# Core Framework
+fastapi[standard]
+uvicorn
+
+# Database
+psycopg2
+
+# AI / LLM
+langgraph
+langchain
+langchain-core
+langchain-openai
+langchain-chroma
+langchain-community
+chromadb
+openai
+
+# Document Loaders
+pypdf
+python-pptx
+
+# Configuration
+python-dotenv
+jinja2
+
+# Utilities
+uuid
